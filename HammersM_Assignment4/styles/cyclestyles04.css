@@ -1,0 +1,27 @@
+/* Mark Hammers 11-21-17 */
+body {
+	background-color: #FF9900;
+	color: black;
+	font-family; Calibri, Arial, sans-serif;
+}
+#wrapper {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.float-right {
+	float: right;
+	margin-right: 2%;
+}
+.float-left {
+	float: left;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+nav ul {
+	list-style-type: none;
+}
+p.bold-text, dt {
+	font-weight: bold;
+}
+
